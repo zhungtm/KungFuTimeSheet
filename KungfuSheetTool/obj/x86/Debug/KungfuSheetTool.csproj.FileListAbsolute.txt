@@ -1,0 +1,7 @@
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\bin\Debug\KungfuSheetTool.exe
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\bin\Debug\KungfuSheetTool.pdb
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.Form1.resources
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.Properties.Resources.resources
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.csproj.GenerateResource.Cache
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.exe
+D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.pdb
