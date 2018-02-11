@@ -5,3 +5,10 @@ D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuS
 D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.csproj.GenerateResource.Cache
 D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.exe
 D:\tomwork\KungfuTimeSheet\KungfuSheetTool\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.pdb
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.exe
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.pdb
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\bin\Debug\KungfuSheetTool.exe
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\bin\Debug\KungfuSheetTool.pdb
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.Form1.resources
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.Properties.Resources.resources
+D:\DanielCode\KungFuTool\KungFuTimeSheet\KungfuSheetTool\obj\x86\Debug\KungfuSheetTool.csproj.GenerateResource.Cache
